@@ -1,5 +1,6 @@
 # SHAFT (Smart Holder & Alert for Forecast Tracking)
-# UCC BSIT-4B Made by ARKO and GUIDEA Team
+
+UCC BSIT-4B Made by ARKO and GUIDEA Team
 
 ## Get started
 
@@ -37,4 +38,4 @@
 
 ## About
 
-# Code by Jermaine Charles Simon
+Code by Jermaine Charles Simon
