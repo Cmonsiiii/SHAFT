@@ -1,4 +1,4 @@
-# SHAFT (Smart Holder & Alert for Forecast Tracking)
+# SHAFT (Smart Holder & Alert for Forecast Tracking) Mobile Application
 
 UCC BSIT-4B Made by ARKO and GUIDEA Team
 
