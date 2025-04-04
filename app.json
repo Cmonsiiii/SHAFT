@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "SHAFT",
+    "slug": "Shaft",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/app_icon.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/app_icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.ucc_bsit_4b.Shaft"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/app_icon.png"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d08a62d0-4b40-4f36-849a-0ddeb90227e4"
+      }
+    }
+  }
+}

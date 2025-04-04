@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "859671505556",
+    "project_id": "shaft-794b8",
+    "storage_bucket": "shaft-794b8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859671505556:android:263506c91cb9498dcc6281",
+        "android_client_info": {
+          "package_name": "com.ucc_bsit_4b.Shaft"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDReN2IRt7YBGnT-gCTDpcNVTN9TRUp_7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
